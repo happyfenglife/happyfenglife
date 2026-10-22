@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- 可选：Capsule Render 动态头部，替换 username 与颜色 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=happyfenglife&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <!-- 可选：打字机效果，中文字体已支持 -->
 <a href="https://git.io/typing-svg">
@@ -35,16 +35,17 @@
 
 <!-- skillicons.dev：48x48 是推荐尺寸，保持一致才“精致” -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,docker,aws&theme=light" height="48" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,vite,react,nextjs,nodejs,python&theme=light" height="48" alt="Tech stack" />
 </p>
 
 <!-- 可选：shields.io 徽章，适合补充 skillicons 未覆盖的工具 -->
 <p align="left">
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/DeepSeek-%235786FE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-%238957E5?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Trae-%2332F08C?style=flat-square&logo=trae&logoColor=black" alt="Trae" />
 </p>
-
-> **排序即信号。** 把你**实际工作中最常使用、最能代表你当前方向**的技术放在前面。如果 AI 工具是你日常的主力，就不要把 Figma 排在它前面。
 
 ---
 
